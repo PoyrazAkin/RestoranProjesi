@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RestoranProjesi": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
